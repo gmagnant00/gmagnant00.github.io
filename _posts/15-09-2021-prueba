@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Prueba con markdown"
+categories: junk
+author:
+- Gabrielle Magnant
+meta: "SPA 410"
+date: 2021-09-15
+---
+# Mi Titulo 1
+# Subtitulo
+
+ahora podemos empezar a escribir y **esto es negrita**
+
+
+
+
+
+```html
+<html>
+  <head>
+  </head>
+  <body>
+    <p>Hello, World!</p>
+  </body>
+</html>
+```
