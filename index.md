@@ -8,6 +8,6 @@
 layout: home
 ---
 
-Un mensaje de bienvenida aquí. Recuerda que las informaciones generales sobre tu sitio se cambian en el archivo de configuración. Más adelante podrás configurar la página de bienvenida como te apetezca. 
+¡Bienvenido a mi pagina web! Este es mi primer intento de hacer un sitio web propio y espero que lo disfruten. 
 
 Este sitio web que hemos creado el código de la plantilla Minima que puede descargarse en GitHub: [minima](https://github.com/jekyll/minima)
