@@ -4,4 +4,4 @@ title: Sobre mi
 permalink: /sobre_mi/
 ---
 
-Mi nombre es Gabrielle Magnant y tengo viente uno anos. Estoy estudiando quimica, espanol, y la historia de arte aqui a la Universidad de Miami. Soy de Rome, Georgia pero ahora mi familia y yo vivimos en Fort Myers Florida. Ahora estoy en mi final ano de escuela aqui en miami y estoy applicando a muchas escuelas de medicna para empezar en Agosto del ano 2020. Cosas que me encantan: gatitos, tomando tiempo para dormir, comida saludable, y pasando tiempo con mis amigos y my familia. 
+Mi nombre es Gabrielle Magnant y soy una estudiante de veintiún años que estudia Química, Español e Historia del Arte en la Universidad de Miami. Soy originario de Rome, Georgia, pero ahora mi familia y yo vivimos en Fort Myers Florida. Actualmente, estoy en mi último año de escuela aquí en Miami y estoy solicitando ingreso a las escuelas de medicina para comenzar en agosto de 2021. Cosas que amo: gatos, dormir, comer alimentos saludables y pasar tiempo con mis amigos y familiares.
