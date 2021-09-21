@@ -1,4 +1,4 @@
-title: Sobre mí
+title: Gabrielle Magnant
 author:
   name: Gabrielle Magnant
   email: gam186@miami.edu
@@ -16,7 +16,7 @@ minima:
   # generate social links in footer
   social_links:
     twitter: gmagnant
-    github:  gmagnant00.github.io
+    github:  gmagnant00
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
