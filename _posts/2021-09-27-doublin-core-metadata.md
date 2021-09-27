@@ -33,7 +33,6 @@
 <li>una carta personal de Garcia Lorca desde Lanjaron a un amigo en Madrid.</li>
 <li>Incluye un dibujo de flor.</li>
 </ul>
-</li>
 
 <li>El editor
   <ul>
@@ -45,7 +44,6 @@
       <ul>
 <li> Jose María Chacón</li>
     </ul>
-</li>
 
 <li>Fecha
 <ul>
