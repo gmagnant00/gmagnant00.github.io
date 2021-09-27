@@ -9,7 +9,8 @@ Dublin Core es un esquema de metadatos que se utiliza para describir una varieda
 
 Aquí está el enlace para la postal que es digitalizada por la biblioteca de la Universidad de Miami: [enlace a la postal](https://merrick.library.miami.edu/cdm/compoundobject/collection/chc5324/id/31/rec/19)
 
-Los trozos de código deberán estar explicados y seguidamente reflejados: 
+
+La línea de etiqueta de apertura del código muestra la definición del formato de datos con el lenguaje XML. Las etiquetas de metadatos describen el proceso de creación de un término para identificar claves dentro de los archivos digitales de la publicación; en este caso el archivo digital es la postal:
 
 ````
 <?xml version="1.0"?>
@@ -18,35 +19,55 @@ Los trozos de código deberán estar explicados y seguidamente reflejados:
 </metadata>
 ````
 
-El título corresponde a.. 
-
+Al mirar la postal digitalizada, decidimos darle el nombre a continuación porque define el autor, el destinatario y la fecha:
 ````
-    <dc:title>El título</dc:title>
-````
+<dc:title> 
+        Postal de Federico García Lorca a Jose María Chacón (1942)
+    </dc:title> 
+    ````
   
-En la etiqueta "creador" se añade la información correspondiente a ...: 
-
+En la etiqueta de "creador", la información correspondiente a quién es el remitente y autor de la postal que en este caso es Lorca, por lo que se justifica llamarlo el creador de la publicación:
  ````
-    <dc:creator>
-        Quien creó el recurso
-    </dc:creator>
-    <dc:subject>
-        Palabra clave 1, Palabra clave 2, ...
+    <dc:creator> 
+        García Lorca, Federico
+    </dc:creator> 
+    ````
+ Las palabras clave que usamos para describir la postal están escritas en el cuadro de asunto. Usamos las siguientes palabras clave porque incluyen que el origen de la tarjeta es Madrid, que está en forma escrita de correspondencia, que es una postal y el autor es Lorca. Como tal, esta descripción se ajusta a las etiquetas de tema porque abarcan el significado de la publicación:
+  ````
+    <dc:subject> 
+        Madrid
     </dc:subject>
-    <dc:description>
-        Esta es la descripción del record...
+    <dc:subject> 
+        correspondencia
+    </dc:subject>
+    <dc:subject> 
+        postales
+    </dc:subject>
+    <dc:subject> 
+        Federico García Lorca
+    </dc:subject>
+    ````
+   Cuando analizamos la postal, encontramos que incluía un mensaje personal en un lado y una foto de un Lanjarón en el otro. Por eso decidimos describirlo como una tarjeta destinada a un amigo íntimo de Lorca como:
+   ````
+    <dc:description> 
+        Carta personal con un dibujo de una flor de García Lorca desde Lanjaron a su amigo, Jose María Chacón en Madrid
     </dc:description>
  ````
  
- Otra explicación de otro elemento: 
- 
+En el lado de la postal con la imagen de Lanjarón, hay una carta que dice Editando José Gálvez, que determinamos es el editor. Por lo tanto, cae bajo la etiqueta de editor: 
  ````
-    <dc:publisher>
-        Quien lo publica
+     <dc:publisher> 
+        Edición Jose Galvez
     </dc:publisher>
+    ````
+    Determinamos que el contribuyente será el destinatario de la postal porque es la única otra persona representada en esta publicación de postal. El hecho de que tanto él como José María Chacón estén presentes en la postal la convierte en una correspondencia entre dos amigos:
+    
+    ````
     <dc:contributor>
         Quienes contribuyen
     </dc:contributor>
+      ````
+      
     <dc:date>
         2021-09-22
     </dc:date>
