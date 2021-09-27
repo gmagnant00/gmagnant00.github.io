@@ -4,7 +4,7 @@
 
 
 
-<p>Metadatos <strong>Proyecto 1</strong>.</p>
+<p>Metadatos<strong>Proyecto 1</strong>.</p>
 
 <ul>
 <li>Título
