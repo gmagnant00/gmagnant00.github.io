@@ -67,27 +67,57 @@ En el lado de la postal con la imagen de Lanjarón, hay una carta que dice Edita
         Quienes contribuyen
     </dc:contributor>
       ````
-      
-    <dc:date>
-        2021-09-22
+     La fecha es cuando se envió la postal porque se incluye en la postal una marca de tiempo que nos dice cuándo fue enviada:
+     ````
+     <dc:date> 
+        1924-09-17
     </dc:date>
+    ````
+    Al mirar la lista de tipos de publicaciones, pudimos determinar que esta publicación era una imagen porque era una versión cargada digitalmente de la postal:
+    ````
     <dc:type>
-        Imagen,...
+        Imagen
     </dc:type>
+    ````
+    El formato de la imagen es jpg porque el archivo de la postal lo muestra como (.jpg):
+    ````
     <dc:format>
         jpg
     </dc:format>
-    <dc:identifier>
-        Identificador
+    ````
+    El identificador es el enlace a la postal en el sitio web de la biblioteca de la Universidad de Miami y está en una colección específica en su catálogo:
+    ````
+     <dc:identifier> 
+        https://merrick.library.miami.edu/cdm/compoundobject/collection/chc5324/id/31/rec/19
     </dc:identifier>
+    ````
+    La fuente de la publicación de la postal es la Biblioteca de la Universidad de Miami publicada digitalmente:
+    ````
     <dc:source>
-        La biblioteca
+        University of Miami Libraries Digital Collections
     </dc:source>
+    ````
+    La postal está escrita en español, por lo que este es el idioma de la publicación y se identifica así:
+    ````
     <dc:language>
-        español
+        Español
     </dc:language>
+    ````
+    La cobertura es el rango de fechas que cubre la postal, que en este caso es la vida de Lorca. Asimismo, también se menciona el lugar de origen de la publicación para dar una ubicación física al archivo:
+    ````
+     <dc:coverage> 
+        1898-1936
+    </dc:coverage>
+    <dc:coverage> 
+        España
+    </dc:coverage>
+    ````
+    La publicación de la postal es gratuita para cualquier persona, lo que significa que los derechos son de dominio público:
+    ````
+     <dc:rights> 
+        Dominio público
+    </dc:rights>
 ````
 
-Con cada uno de los elementos se explica brevemente qué son. 
 
-Una breve reflexión final. 
+El propósito de este ejercicio fue observar cierto tipo de catalogación de metadatos y comprender mejor cómo funciona Doublin Core. Al completar esta valoración, pudimos ver cómo funciona como un proceso de análisis de partes concretas de determinadas publicaciones observando el creador y el tipo de formato, a través de la selección de determinados elementos de la obra. Al completar esto, puedo imaginar cuántos desafíos pueden enfrentar los bibliotecarios para encontrar ciertos elementos y encontrar la manera de describir mejor la publicación sin este programa. Doublin Core es muy útil porque estandariza los modelos de metadatos para hacerlos abiertos y accesibles al público.
