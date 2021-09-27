@@ -32,6 +32,7 @@ En la etiqueta de "creador", la información correspondiente a quién es el remi
         García Lorca, Federico
     </dc:creator> 
     ````
+    
  Las palabras clave que usamos para describir la postal están escritas en el cuadro de asunto. Usamos las siguientes palabras clave porque incluyen que el origen de la tarjeta es Madrid, que está en forma escrita de correspondencia, que es una postal y el autor es Lorca. Como tal, esta descripción se ajusta a las etiquetas de tema porque abarcan el significado de la publicación:
   ````
     <dc:subject> 
