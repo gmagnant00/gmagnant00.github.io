@@ -22,37 +22,38 @@ La línea de etiqueta de apertura del código muestra la definición del formato
 Al mirar la postal digitalizada, decidimos darle el nombre a continuación porque define el autor, el destinatario y la fecha:
 ````
 <dc:title> 
-        Postal de Federico García Lorca a Jose María Chacón (1942)
-    </dc:title> 
-    ````
+Postal de Federico García Lorca a Jose María Chacón (1942)
+</dc:title> 
+````
   
 En la etiqueta de "creador", la información correspondiente a quién es el remitente y autor de la postal que en este caso es Lorca, por lo que se justifica llamarlo el creador de la publicación:
- ````
-    <dc:creator> 
-        García Lorca, Federico
-    </dc:creator> 
-    ````
+````
+<dc:creator> 
+García Lorca, Federico
+</dc:creator> 
+````
     
- Las palabras clave que usamos para describir la postal están escritas en el cuadro de asunto. Usamos las siguientes palabras clave porque incluyen que el origen de la tarjeta es Madrid, que está en forma escrita de correspondencia, que es una postal y el autor es Lorca. Como tal, esta descripción se ajusta a las etiquetas de tema porque abarcan el significado de la publicación:
-  ````
-    <dc:subject> 
-        Madrid
-    </dc:subject>
-    <dc:subject> 
-        correspondencia
-    </dc:subject>
-    <dc:subject> 
-        postales
-    </dc:subject>
-    <dc:subject> 
-        Federico García Lorca
-    </dc:subject>
-    ````
-   Cuando analizamos la postal, encontramos que incluía un mensaje personal en un lado y una foto de un Lanjarón en el otro. Por eso decidimos describirlo como una tarjeta destinada a un amigo íntimo de Lorca como:
-   ````
-    <dc:description> 
-        Carta personal con un dibujo de una flor de García Lorca desde Lanjaron a su amigo, Jose María Chacón en Madrid
-    </dc:description>
+Las palabras clave que usamos para describir la postal están escritas en el cuadro de asunto. Usamos las siguientes palabras clave porque incluyen que el origen de la tarjeta es Madrid, que está en forma escrita de correspondencia, que es una postal y el autor es Lorca. Como tal, esta descripción se ajusta a las etiquetas de tema porque abarcan el significado de la publicación:
+````
+<dc:subject> 
+ Madrid
+</dc:subject>
+<dc:subject> 
+correspondencia
+</dc:subject>
+<dc:subject> 
+postales
+</dc:subject>
+<dc:subject> 
+Federico García Lorca
+</dc:subject>
+````
+
+Cuando analizamos la postal, encontramos que incluía un mensaje personal en un lado y una foto de un Lanjarón en el otro. Por eso decidimos describirlo como una tarjeta destinada a un amigo íntimo de Lorca como:
+````
+<dc:description> 
+Carta personal con un dibujo de una flor de García Lorca desde Lanjaron a su amigo, Jose María Chacón en Madrid
+</dc:description>
  ````
  
 En el lado de la postal con la imagen de Lanjarón, hay una carta que dice Editando José Gálvez, que determinamos es el editor. Por lo tanto, cae bajo la etiqueta de editor: 
