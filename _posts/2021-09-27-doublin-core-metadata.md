@@ -4,7 +4,7 @@
 
 
 
-<p>I just love <strong>bold text</strong>.</p>
+<p>Metadatos <strong>Proyecto 1</strong>.</p>
 
 <ul>
 <li>Título
