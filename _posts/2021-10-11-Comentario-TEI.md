@@ -32,7 +32,9 @@ En el campo de TEI el esquema más utilizado es RelaxNG que tiene como extensió
   
   <text>
     <body>
-      <p> 1. En el nombre de Dios Padre y del Hijo y del Espíritu Santo, tres personas y un solo Dios verdadero en Trinidad, al cual sea dada gloria á el Padre y al Hijo y al Espíritu Santo, ansí como era en el comienzo, ansí es agora y por el siglo de los siglos. Amén. En el nombre del qual sobredicho Señor y de la Virgen Santa María su Madre y Señora y abogada de los pecadores y á honra y ensalzamiento de todos los ángeles é Santos y Santas de la corte del cielo, Amén. = Por ende, sepan cuantos estas escripturas vieren, como yo Doña Leonor López de Córdoba, fija de mi Señor el Maestre Don Martín López de Córdoba é Doña Sancha Carrillo, á quien dé Dios gloría y paraíso, Juro por esta significanza de +, en que yo adoro como todo esto que aquí es escripto es verdad, que lo ví é pasó por mí; y escríbelo é honra y alabanza de mi Señor Jesu Christo é de la Virgen Santa María su madre que lo parió; porque todas las criaturas que estuvieren en tribulación sean ciertas; que yo espero en su misericordia, que si se encomiendan de corazón á la Virgen Santa María, que ella las consolará y acorrerá como consoló á mí, y porque quien lo oyere sepa la relación de todos mis hechos é milagros que la Virgen Santa María me mostró; y es mi intención que quede por memoria, mándelo escribir así como vedes.
+<p> 
+1. En el nombre de Dios Padre y del Hijo y del Espíritu Santo, tres personas y un solo Dios verdadero en Trinidad, al cual sea dada gloria á el Padre y al Hijo y al Espíritu Santo, ansí como era en el comienzo, ansí es agora y por el siglo de los siglos. Amén. En el nombre del qual sobredicho Señor y de la Virgen Santa María su Madre y Señora y abogada de los pecadores y á honra y ensalzamiento de todos los ángeles é Santos y Santas de la corte del cielo, Amén. = Por ende, sepan cuantos estas escripturas vieren, como yo Doña Leonor López de Córdoba, fija de mi Señor el Maestre Don Martín López de Córdoba é Doña Sancha Carrillo, á quien dé Dios gloría y paraíso, Juro por esta significanza de +, en que yo adoro como todo esto que aquí es escripto es verdad, que lo ví é pasó por mí; y escríbelo é honra y alabanza de mi Señor Jesu Christo é de la Virgen Santa María su madre que lo parió; porque todas las criaturas que estuvieren en tribulación sean ciertas; que yo espero en su misericordia, que si se encomiendan de corazón á la Virgen Santa María, que ella las consolará y acorrerá como consoló á mí, y porque quien lo oyere sepa la relación de todos mis hechos é milagros que la Virgen Santa María me mostró; y es mi intención que quede por memoria, mándelo escribir así como vedes.
+</p>
 
 2. Y ansí que yo soy fija del dicho Maestre, que fué de Calatrava en el tiempo del Señor Rey Don Pedro, y el dicho Señor Rey le hizo merced de darle la encomienda de Alcántara, que es en la ciudad de Sevilla; y luego le hizo Maestre de Alcántara y á la postre de Calatrava. Y el dicho Maestre, mi padre, era descendiente de la casa de Aguilar y sobrino de Don Juan Manuel, fijo de una sobrina suya, fija de un hermano. Y subió á tan grande estado, como se hallará en las Coroninas de España. E como dicho tengo soy fija de Doña Sancha Carrillo, sobrina é criada del Señor Rey Don Alfonso, de muy esclarecida memoria, que Dios dé santo paraíso, padre del dicho Señor Rey Don Pedro; y mi madre falleció muy temprano.
 
@@ -68,7 +70,7 @@ En el campo de TEI el esquema más utilizado es RelaxNG que tiene como extensió
 
 18. E de antes de esto, yo había ido treinta días á maitines ante Santa María, el Amortecida, que es en la orden de San Pablo de Córdoba, con aguas y con vientos y descalza, é rezábale sesenta y tres veces esta oración, que se signe con sesenta y seis Aves-Marías, en reverencia de los sesenta y seis años que ella vivió con amargura en este mundo, porque ella me diese casa, é ella me dió casa y casas por su misericordia, mejores que yo las merecía, y comienza la oración:
 
-<p>> 
+
 Madre Santa María,
 De vos gran dolor había;
 Vuestro fijo bien criado
@@ -79,7 +81,7 @@ Después de tu tribulación
 Puso vos consolación:
 Ponedle vos á mí, Señora,
 Que sabéis mi dolor.
-      </p>
+     
 
 En este tiempo, pluguiese que con el ayuda de mi señora mi tía y de labor de mis manos, hice en aquel corral dos palacios y una huerta é otras dos ó tres casas para servicio.
 
@@ -97,7 +99,8 @@ En este tiempo, pluguiese que con el ayuda de mi señora mi tía y de labor de m
 
 25. Y así, cuando lo llevaban á enterrar fui yo con él; y cuando iba por la calle con mi hijo, las gentes salían dando alaridos, amancilladas de mí, y decían: «Salid, señoras, y veréis la más desventurada, desamparada é más maldita mujer del mundo», con los gritos que los cielos traspasaban. E como los de aquel lugar, todos eran crianza y hechura del señor mí padre; y aunque sabían que les pesaba á sus señores, hicieron grande llanto conmigo, como sí fuera su señora.
 
-26. Esta noche como vine de soterrar á mí hijo, luego me dijeron que me viniese á Córdoba: é yo llegué á mí señora mi tía por ver si me lo mandaba ella. Ella me dijo: «Sobrina señora, no puedo dejar de hacerlo, que á mi nuera y á mis fijas lo he prometido, porque son hechas en uno; y en tanto me han afligido que os parta de mí, que se lo ove otorgado, é esto no sé qué enojo hacéis á mí nuera Doña Teresa que tan mala intención os tiene». Y yo le dije con muchas lágrimas: «Quiera Dios no me salve si merecí por que.» Y así víneme á mi casa á Córdoba.</p>
+26. Esta noche como vine de soterrar á mí hijo, luego me dijeron que me viniese á Córdoba: é yo llegué á mí señora mi tía por ver si me lo mandaba ella. Ella me dijo: «Sobrina señora, no puedo dejar de hacerlo, que á mi nuera y á mis fijas lo he prometido, porque son hechas en uno; y en tanto me han afligido que os parta de mí, que se lo ove otorgado, é esto no sé qué enojo hacéis á mí nuera Doña Teresa que tan mala intención os tiene». Y yo le dije con muchas lágrimas: «Quiera Dios no me salve si merecí por que.» Y así víneme á mi casa á Córdoba.
+      </p>
       <figure>
         <graphic url="http://www.tei-c.org/logos/TEI-glow.png"/>
       </figure>
