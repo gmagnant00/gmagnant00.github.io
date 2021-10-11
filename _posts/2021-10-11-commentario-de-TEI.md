@@ -64,7 +64,7 @@ El elemento raíz es una de las partes más importantes de TEI, ya que contiene 
             <body>
               <p>El texto </p>
              <figure>
-              <!--Este elemento <figure> puede eliminarse pues es solo el logo de TEI -->
+              <!--Este elemento <figure> puede eliminarse pues es solo el logo de TEI --/>
                 <graphic url="http://www.tei-c.org/logos/TEI-glow.png"/>
               </figure>
            </body>
