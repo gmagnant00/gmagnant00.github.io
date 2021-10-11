@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VIDA DE DOÑA LEONOR LÓPEZ DE CÓRDOBA, ESCRITA POR ELLA MISMA."
+title: "Vida De Dona Lenor Lopez De Cordoba, Escrita por si misma."
 date: 2021-10-11
 author: Gabrielle Magnant
 ---
