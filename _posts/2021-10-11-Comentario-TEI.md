@@ -35,17 +35,22 @@ En el campo de TEI el esquema más utilizado es RelaxNG que tiene como extensió
 <p> 
 1. En el nombre de Dios Padre y del Hijo y del Espíritu Santo, tres personas y un solo Dios verdadero en Trinidad, al cual sea dada gloria á el Padre y al Hijo y al Espíritu Santo, ansí como era en el comienzo, ansí es agora y por el siglo de los siglos. Amén. En el nombre del qual sobredicho Señor y de la Virgen Santa María su Madre y Señora y abogada de los pecadores y á honra y ensalzamiento de todos los ángeles é Santos y Santas de la corte del cielo, Amén. = Por ende, sepan cuantos estas escripturas vieren, como yo Doña Leonor López de Córdoba, fija de mi Señor el Maestre Don Martín López de Córdoba é Doña Sancha Carrillo, á quien dé Dios gloría y paraíso, Juro por esta significanza de +, en que yo adoro como todo esto que aquí es escripto es verdad, que lo ví é pasó por mí; y escríbelo é honra y alabanza de mi Señor Jesu Christo é de la Virgen Santa María su madre que lo parió; porque todas las criaturas que estuvieren en tribulación sean ciertas; que yo espero en su misericordia, que si se encomiendan de corazón á la Virgen Santa María, que ella las consolará y acorrerá como consoló á mí, y porque quien lo oyere sepa la relación de todos mis hechos é milagros que la Virgen Santa María me mostró; y es mi intención que quede por memoria, mándelo escribir así como vedes.
 </p>
-
+<p>
 2. Y ansí que yo soy fija del dicho Maestre, que fué de Calatrava en el tiempo del Señor Rey Don Pedro, y el dicho Señor Rey le hizo merced de darle la encomienda de Alcántara, que es en la ciudad de Sevilla; y luego le hizo Maestre de Alcántara y á la postre de Calatrava. Y el dicho Maestre, mi padre, era descendiente de la casa de Aguilar y sobrino de Don Juan Manuel, fijo de una sobrina suya, fija de un hermano. Y subió á tan grande estado, como se hallará en las Coroninas de España. E como dicho tengo soy fija de Doña Sancha Carrillo, sobrina é criada del Señor Rey Don Alfonso, de muy esclarecida memoria, que Dios dé santo paraíso, padre del dicho Señor Rey Don Pedro; y mi madre falleció muy temprano.
-
+</p>
+     <p>
 3. Y así me casó mi padre de siete años con Ruy Gutiérrez de Henestrosa, hijo de Juan Fernández de Henestrosa, Camarero Mayor del Señor Rey Don Pedro y Su Canciller Mayor del Sello de la puridad y Mayordomo Mayor de la Reyna Doña Blanca, su mujer, el cual casó con Doña María de Haro, Señora de Haro y los Cameros. Y á mi marido quedáronle muchos bienes de su padre y muchos lugares: y alcanzaba trescientos de á caballo suyos é cuarenta madejas de aljófar tan grueso como garbanzos, é quinientos moros é moras, y dos mil marcos de plata en bajilla; y las joyas y preseas de su casa no las pudieron escribir en dos pliegos de papel. Y esto le cupo del dicho su padre y madre; porque otro fijo y heredero no tenían. A mí me dió mi padre veinte mil doblas en casamiento.
-
+</p>
+      <p>
 4. Y residíamos en Carmona con las fijas del Señor Rey Don Pedro, y yo, é mis cuñados, maridos de mis hermanas, y un hermano mío, que se llamaba Don Lope López de Córdoba Carrillo. Llamábanse mis cuñados Fernán Rodriguez de Aza, Señor de Aza é Villalobos, é el otro Ruy García de Aza, el otro Lope Rodríguez de Aza, que eran fijos de Alvaro Rodriguez de Aza é de Doña Constanza de Villalobos.
-
+</p>
+      <p>
 5. Y fué ansí: que cuando el Señor Rey Don Pedro quedó cercado en Montiel de su hermano el Señor Rey Don Enrique y mi Padre bajó al Andalucía á llevar gente para socorrerlo; y llevándola, halló que era muerto á manos de su hermano. Y vista esta desgracia, tomó el camino para Carmona, donde estaban las señoras Infantas, fijas del Señor Rey Don Pedro y parientas tan cercanas de mi marido y mías por mi madre. Y el Señor Rey Don Enrique, viéndose Rey de Castilla, se vino á Sevilla y puso cerco á Carmona. Y como es villa tan fuerte, estuvo muchos meses cercada.
-
+</p>
+      <p>
 6. Y acaso habiendo salido mi padre fuera de ella y sabiéndolo los del Real del Rey, como era salido de la dicha villa, ofreciéronse doce caballeros á escalar la villa; y subidos á ella á la muralla, fueron presos; y luego fue avisado mi padre del tal hecho y vino luego, y por el atrevimiento les mandó cortar las cabezas.
-
+</p>
+      <p>
 7. Y el Señor Rey Don Enrique, visto este fecho y que no podía por fuerzas de armas entrarla á satisfacerse de esto hecho, mandó al Condestable de Castilla tratase de medios con mi padre. Y los medios que mí padre trató fueron dos: el uno, que las Señoras Infantas las habían de poner libres á ellas y á sus tesoros en Inglaterra, antes que él entregase la dicha villa al Rey. Y ansí fue hecho, porque mandó á unos escuderos, deudos suyos naturales de Córdoba y de su apellido, que fuesen con ellas, y la demás gente que le pareció. El otro capítulo fue que él y sus hijos y valedores y los que habían asistido por su orden en aquella villa, fuesen perdonados del Rey, y dados por leales á ellos y á sus haciendas; y así se le dió firmado del dicho Condestable, en nombre del Rey.
 
 8. Y hecho este partido, entregó la villa al dicho Condestable en nombre del Rey; y de allí fueron él y sus hijos y la demás gente á besar la mano del Rey. Y el Señor Rey Don Enrique mandólos prender y poner en las Atarazanas de Sevilla; y el dicho Condestable, visto que el Señor Rey Don Enrique no le había cumplido la palabra que él había dado en su nombre al dicho Maestre, se salió de su Corte y nunca más volvió á ella.
