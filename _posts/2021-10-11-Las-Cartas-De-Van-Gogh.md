@@ -8,7 +8,6 @@ author: Gabrielle Magnant
 
 # Evaluación de Las Cartas de Vincent Van Gogh
 <h1>El proyecto Vincent van Gogh:</h1>
-link 
 
 <h2>Sobre el proyecto:</h2>
 Las cartas es un proyecto digital que contiene una edición digital de todas las cartas sobrevivientes, tanto escritas como recibidas por Vincent Van Gogh durante su vida entre  1853 y 1890. Este proyecto es una continuación de un proyecto anterior que fue iniciado en 1914 por Jo van Gogh-Bonger, donde las cartas y correspondencias de Van Gogh fueron traducidas del holandés a varios idiomas para que fueran accesibles al público en general. En 1994, este proyecto fue iniciado por los miembros del Museo Van Gogh y el Instituto Huygens. Durante los primeros meses e incluso años del proyecto, el equipo comenzó a hacer un inventario de las fuentes de cada carta y a diseñar el proyecto. Durante los siguientes diez años, cada carta escrita y recibida por Van Gogh fue cuidadosamente analizada por un equipo de historiadores, lingüistas e historiadores del arte para luego ser traducida al inglés. Una vez que se completó el largo proceso de traducción de cada texto que finalizó en 2004, y con el auge de Internet, el equipo ahora tenía la capacidad de publicar las traducciones en línea en lugar de depender de un formulario impreso. El equipo creó una base de datos electrónica que fue diseñada para ser accesible al público en general para que pudieran buscar y leer sobre los detalles íntimos de la vida y obra de Van Gogh.
@@ -38,6 +37,7 @@ Después de revisar las diferentes categorías, una vez que se selecciona una ca
 También se agregan notas para ofrecer información de fondo sobre el tema mencionado, finales de línea, facsímil y fotos del texto original. A continuación se muestra un ejemplo de las notas agregadas por los editores a cada una de las transcripciones de las cartas. Se agregaron notas a pie de página para aclarar o especificar cualquier detalle ambiguo mencionado.
 
 <img src="/assets/images/img/0005.png" height="200" width="210" align="right" border="5px solid #000000"> 
+<br>
 
 Existe la opción de escribir palabras clave o números en una barra de búsqueda, así como completar una búsqueda avanzada para encontrar un detalle específico. Con esta opción, se puede seleccionar el lugar, período de tiempo, tema, persona, número, etc. para encontrar una carta o documento específico.
 
