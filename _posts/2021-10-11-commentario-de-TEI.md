@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La Text Encoding Initiative (TEI): Un Ejemplo Básico Comentado"
+title: "La Text Encoding Initiative (TEI): Un Comentario Basico"
 date: 2021-10-11
 author: Gabrielle Magnant 
 ---
