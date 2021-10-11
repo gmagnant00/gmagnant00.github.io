@@ -40,17 +40,17 @@ El elemento raíz es responsable de indicar el espacio de nombres. En otras pala
         <fileDesc>
         <titleStmt>
         <title>
-        <!-- Title of the Resource --/>
+        <!-- Title of the Source --/>
         </title>
         </titleStmt>
         <publicationStmt>
         <p>
-        <!-- Information about production of the resource --/>
+        <!-- Publication Information --/>
         </p>
         </publicationStmt>
         <sourceDesc>
         <p>
-        <!-- Information about the source from where the resource comes --/>
+        <!-- Information about the source --/>
         </p>
         </sourceDesc>
         </fileDesc>
