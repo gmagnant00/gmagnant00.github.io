@@ -9,11 +9,11 @@ author: Gabrielle Magnant
 
 La Iniciativa de codificación de texto (TEI) es algo que se desarrolló para establecer un estándar y mantener un estándar para la representación de textos en forma digital. Lo que ofrece TEI son las pautas y reglas que especifican métodos de codificación para texto legible por máquina, particularmente en humanidades, ciencias sociales y estudios de idiomas. Fue creado en 1994 y todavía lo utilizan bibliotecas, museos, editoriales y académicos. Utilizaron las pautas de TEI para enviar textos para investigación, enseñanza y preservación en línea.
 
-# Información crítica para la creación de un documento XML-TEI
+# Información crítica para la creación de un documento XML-TEI:
 
 1. Uno tiene que declarar explícitamente o por referencia una especificación de esquema TEI con la cual el documento puede ser validado y comparado.
 
-# Directrices para la codificación electrónica de texto
+# Directrices para la codificación electrónica de texto:
 
 1. **La declaración**
 
