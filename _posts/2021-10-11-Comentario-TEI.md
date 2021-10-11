@@ -68,7 +68,7 @@ En el campo de TEI el esquema más utilizado es RelaxNG que tiene como extensió
 
 18. E de antes de esto, yo había ido treinta días á maitines ante Santa María, el Amortecida, que es en la orden de San Pablo de Córdoba, con aguas y con vientos y descalza, é rezábale sesenta y tres veces esta oración, que se signe con sesenta y seis Aves-Marías, en reverencia de los sesenta y seis años que ella vivió con amargura en este mundo, porque ella me diese casa, é ella me dió casa y casas por su misericordia, mejores que yo las merecía, y comienza la oración:
 
-
+<p>> 
 Madre Santa María,
 De vos gran dolor había;
 Vuestro fijo bien criado
@@ -79,7 +79,7 @@ Después de tu tribulación
 Puso vos consolación:
 Ponedle vos á mí, Señora,
 Que sabéis mi dolor.
-
+      </p>
 
 En este tiempo, pluguiese que con el ayuda de mi señora mi tía y de labor de mis manos, hice en aquel corral dos palacios y una huerta é otras dos ó tres casas para servicio.
 
