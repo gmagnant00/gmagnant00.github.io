@@ -50,7 +50,7 @@ Si bien la base de datos de *Vincent van Gogh – The Letters* está disponible 
 
 Los principales editores de este proyecto que fueron responsables de liderar el proceso de traducción y adquisición son Leo Jansen, Hans Luijten y Nienke Bakker. Si bien los editores trabajaron con otros para completar el extenso proyecto, ellos fueron responsables de asegurarse de que cada traducción hubiera sido revisada por tres personas diferentes y comparada con el original. Los miembros contribuyentes del proyecto fueron; Wouter van der Veen, Elly Cassee, Chris Stolwijk, Monique Hageman, Mirjam Koelewijn, Harold Koninckx y Renske Suijver. Además de esto, el equipo de editores y traductores trabajó junto con numerosos museos para completar el proyecto, sobre todo el Museo Van Gogh en Ámsterdam.
 
-<img src="/assets/images/0008.png" height="400" width="510" align="right" border="5px solid #000000" style="padding: 10px;"> 
+<img src="/assets/images/0008.png" height="400" width="510" align="right" border="5px solid #000000" style="margin: 10px;"> 
 
 Para crear la página web que alberga las obras transcritas hubo un equipo de diseñadores web dirigido por Peter Boot, con la asistencia de Marianne Peereboom. Bram Buitendijk ejerció como programador principal, junto con Ronald Haentjens Dekker, Bas Doppen, Meindert Kroese y Ramona Land como asistentes de programación y proyectos. El diseño se atribuye a Zeezeilen (www.zzln.nl). Finalmente, los patrocinadores de la web de este proyecto y del proyecto en general son: The Van Gogh Museum, Thames & Hudson, Amsterdam University Press y Ascites Sud.
 
