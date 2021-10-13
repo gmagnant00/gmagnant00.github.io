@@ -5,11 +5,10 @@ date: 2021-10-11
 author: Gabrielle Magnant 
 ---
 
-<span style="color:red">ESTO NO ESTÁ ACABADO Y NO PUEDES SOLO COPIAR EL TEXTO QUE OS PUSE EN MI DOCUMENTO DE EJEMPLO</span>
         
 # ¿Qué es un documento XML-TEI?
 
-La Iniciativa de codificación de texto (TEI) es <span style="color:red">algo</span> que se desarrolló para establecer un <span style="color:red">estándar</span> y mantener un <span style="color:red">estándar</span> para la representación de textos en forma digital. Lo que ofrece TEI son las pautas y reglas que especifican métodos de codificación para texto legible por máquina, particularmente en humanidades, ciencias sociales y estudios de idiomas. Fue creado en 1994 y todavía lo utilizan bibliotecas, museos, editoriales y académicos. Utilizaron las pautas de TEI para enviar textos para investigación, enseñanza y preservación en línea.
+TEI, la Iniciativa de codificación de texto, se creó en 1987 como una forma de crear un conjunto general de pautas para codificar textos legibles por máquina principalmente en las ciencias sociales y las humanidades. El funcionamiento de TEI es que utiliza conjuntos de etiquetas y riles en XML para codificar textos y documentos. Las etiquetas TEI que se utilizan para describir la estructura y las características de un determinado documento. Las etiquetas TEI más comunes que se utilizan son las que indican encabezados, párrafos, texto en negrita, etc.
 
 # Información crítica para la creación de un documento XML-TEI:
 
