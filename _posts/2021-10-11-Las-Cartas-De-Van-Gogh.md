@@ -1,12 +1,9 @@
 ---
 layout: post
-title: "Las Cartas de Vincent Van Gogh"
+title: "Evaluación de Las Cartas de Vincent Van Gogh"
 date: 2021-10-03
 author: Gabrielle Magnant
 ---
-
-
-# Evaluación de Las Cartas de Vincent Van Gogh
 
 ## Sobre el proyecto:
 
