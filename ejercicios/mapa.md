@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Mapa sobre el recorrido de Lenor
-permalink: /ejercicios/
 ---
 
 Explicacion sobre el mapa 
