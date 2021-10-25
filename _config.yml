@@ -3,8 +3,7 @@ author:
   name: Gabrielle Magnant
   email: gam186@miami.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-  Bienvenido a una descripción general completa de mi vida para el español 410 en la Universidad de Miami.
-  Esto cubrirá de dónde soy, lo que me gusta hacer y lo que haré con mi vida.
+  Mi página web para la clase 410 de español.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
