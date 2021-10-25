@@ -95,16 +95,15 @@
                                     </a>
                                 </p>
                                 <ul class="contact-list">
-                                    <li class="p-name">Susanna Alles-Torrent</li>
+                                    <li class="p-name">Gabrielle Magnant</li>
                                     <li>
                                         <a class="u-email" href="mailto:susanna_alles@miami.edu"
-                                            >susanna_alles@miami.edu</a>
+                                            >gam186@miami.edu</a>
                                     </li>
                                 </ul>
                             </div>
                             <div class="footer-col">
-                                <p>Prueba de la página DH Miami para mis estudiantes que son todos
-                                    estupendos. </p>
+                                <p>Mi página web para la clase 410 de español. </p>
                             </div>
                         </div>
                         <div class="social-links">
