@@ -75,6 +75,7 @@ Este mapa ilustrado a continuación muestra todos los lugares que Lenor menciona
 Utilizando Google Maps, creamos un nuevo mapa, se creó e importamos la Hoja de Google con el nombre y descripciones de cada lugar. la importación de un archivo con los nombres de los lugares. Luego, Google Maps pudo marcar automáticamente cada lugar, incluida la ciudad, el país y la descripción de cada ubicación. Nuestro último paso fue agregar imágenes a cada ubicación, otro proceso que fue facilitado por elementos de Google Maps, ya que pudimos buscar imágenes en Google Maps.
 
 En resumen, disfruté mucho trabajando con Google Maps y espero seguir usando esta aplicación para la creación de mapas en el futuro. Es muy simple de navegar y usar y también ofrece varias opciones para personalizar el mapa.</b>
+                                    
                                     <xsl:value-of
                                         select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc"/>
                                     <a
