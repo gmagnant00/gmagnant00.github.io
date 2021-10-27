@@ -76,7 +76,7 @@
                                         >https://archive.org/details/n16365laespaamoderna14madruoft/page/n125/mode/2up</a>
                                 </span>
                                 <br/>
-                                <p>Consulta el <a href="https://dh-miami.github.io/ejercicios/mapa.html">mapa con el recorrido de Leonor</a></p>
+                                <p>Consulta el <a href="https://gmagnant00.github.io/ejercicios/mapa.html">Mapa sobre el recorrido de Lenor</a></p>
                             </div>
 
                             <xsl:apply-templates/>
@@ -97,24 +97,24 @@
                                 <ul class="contact-list">
                                     <li class="p-name">Gabrielle Magnant</li>
                                     <li>
-                                        <a class="u-email" href="mailto:susanna_alles@miami.edu"
+                                        <a class="u-email" href="mailto:gam186@miami.edu"
                                             >gam186@miami.edu</a>
                                     </li>
                                 </ul>
                             </div>
                             <div class="footer-col">
-                                <p>Mi página web para la clase 410 de español. </p>
+                                <p>Mi página web para la clase 410 de español.</p>
                             </div>
                         </div>
                         <div class="social-links">
                             <ul class="social-media-list">
                                 <li>
-                                    <a rel="me" href="https://github.com/susannalles"
-                                        title="susannalles">
+                                    <a rel="me" href="https://github.com/gmagnant00"
+                                        title="Gabrielle Magnant">
                                         <!--<svg class="svg-icon grey"></svg>--></a>
                                 </li>
                                 <li>
-                                    <a rel="me" href="https://twitter.com/sallesto" title="sallesto">
+                                    <a rel="me" href="https://twitter.com/gmagnant" title="gmagnant">
                                         <!--<svg class="svg-icon grey"></svg>--></a>
                                 </li>
                             </ul>
