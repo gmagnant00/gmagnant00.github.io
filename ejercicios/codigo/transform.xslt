@@ -68,15 +68,21 @@
                                 <br/>
 
                                 <span >
-                                    < b > Description of the source: </ b >
-                                    < xsl : value-of
-                                        select = " / tei: TEI / tei: teiHeader / tei: fileDesc / tei: sourceDesc " />
-                                    < a
-                                        href = " https://archive.org/details/n16365laespaamoderna14madruoft/page/n125/mode/2up "
-                                        > https://archive.org/details/n16365laespaamoderna14madruoft/page/n125/mode/2up </ a >
-                                </ span >
-                                < Br />
-                                < P > Check the < a  href = " https://miladvh.github.io/ejercicios/mapa.html " > travel map with Leonor </ a > </ p >
+                                      <b>Leonor López de Córdoba es la creadora de la primera autobiografía española fuera de España. Además de esto, se sabe que Leonor es la primera mujer en recibir crédito por sus escritos. En su autobiografía, Leonor comparte detalles de eventos clave en la historia de España y cómo impactaron y afectaron su propia vida.
+
+Este mapa ilustrado a continuación muestra todos los lugares que Lenor menciona en su autobiografía. Para cada uno de los lugares mostrados, se encuentra la ubicación actual, una breve descripción que explica la conexión entre el lugar y Lenor, y una foto. Para crear este mapa, todos los nombres de personas y lugares se etiquetaron en un documento XML-TEI. A medida que extrajimos los nombres de los lugares del documento original, pudimos crear rápidamente una lista de los nombres de los lugares. Después de hacer una lista de los nombres de los lugares en una hoja de Google, agregamos tres columnas para ilustrar el lugar, la ciudad, el país y la descripción [Los estudiantes de la clase se dividieron y estaban a cargo de agregar las descripciones de ciertos lugares].
+
+Utilizando Google Maps, creamos un nuevo mapa, se creó e importamos la Hoja de Google con el nombre y descripciones de cada lugar. la importación de un archivo con los nombres de los lugares. Luego, Google Maps pudo marcar automáticamente cada lugar, incluida la ciudad, el país y la descripción de cada ubicación. Nuestro último paso fue agregar imágenes a cada ubicación, otro proceso que fue facilitado por elementos de Google Maps, ya que pudimos buscar imágenes en Google Maps.
+
+En resumen, disfruté mucho trabajando con Google Maps y espero seguir usando esta aplicación para la creación de mapas en el futuro. Es muy simple de navegar y usar y también ofrece varias opciones para personalizar el mapa.</b>
+                                    <xsl:value-of
+                                        select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc"/>
+                                    <a
+                                        href="https://archive.org/details/n16365laespaamoderna14madruoft/page/n125/mode/2up"
+                                        >https://archive.org/details/n16365laespaamoderna14madruoft/page/n125/mode/2up</a>
+                                </span>
+                                <br/>
+                                <p>Consulta el <a href="https://https://gmagnant00.github.io/ejercicios/mapa.html">Mapa sobre el recorrido de Lenor</a></p>
                             </ div >
 
                             <xsl:apply-templates/>
