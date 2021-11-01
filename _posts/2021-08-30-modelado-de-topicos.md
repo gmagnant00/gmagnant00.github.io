@@ -5,7 +5,7 @@ date: 2021-08-30
 author: vuestro nombre
 ---
 
-<span style="color:red;">Esto debe redactarse como una entrada del blog con un texto formal, coherente y cohesionado.</span>
+<span style="color:red;">Esto debe ampliarse y redactarse mejor como una entrada del blog con un texto formal, coherente y cohesionado.</span>
 
 Martha Moore Ballard tenía cincuenta años cuando comenzó su diario el 1 de enero de 1785. Todos los días, durante veintisiete años, registró los eventos diarios en su diario, comenzando por el clima. Al principio, las entradas eran breves y entrecortadas, pero gradualmente se volvieron más completas y regulares. Lo que comenzó, muy probablemente, como un registro de su labor de obstetricia y curación, se convirtió en un relato notablemente constante de los eventos ordinarios y extraordinarios de su vida.
 
