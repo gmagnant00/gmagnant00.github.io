@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Evaluación de Las Cartas de Vincent Van Gogh"
+title: "Presentación 2. Análisis de la edición digital de Las Cartas de Vincent Van Gogh"
 date: 2021-10-03
 author: Gabrielle Magnant
 ---
