@@ -5,7 +5,7 @@ date: 2021-10-11
 author: Gabrielle Magnant 
 ---
 # ¿Qué es TEI?
-TEI, The Text Encoding Initiative, es un sistema que permite la descripción digital de textos en humanidades mediante el uso de un lenguaje de marcado informático llamado XML **i(eXtensible Markup Language).
+TEI, The Text Encoding Initiative, es un sistema que permite la descripción digital de textos en humanidades mediante el uso de un lenguaje de marcado informático llamado XML **i(eXtensible Markup Language)**.
 
 Text Encoding Initiative también ha creado un conjunto de pautas conocidas como las pautas TEI, que sirven como un estándar interdisciplinario que ayuda en la representación en línea de textos literarios y lingüísticos para la investigación, la enseñanza y la preservación en línea.
 
