@@ -1,75 +1,80 @@
 ---
 layout: post
-title: "Tarea 4. La Text Encoding Initiative: un ejemplo básico comentado"
+title: "Tarea 4. Commentatio de La Text Encoding Initiative"
 date: 2021-10-11
 author: Gabrielle Magnant 
 ---
-<span style="color:red;">Esta entrada no está compelta.</span>
-        
+# ¿Qué es TEI?
+TEI, The Text Encoding Initiative, es un sistema que permite la descripción digital de textos en humanidades mediante el uso de un lenguaje de marcado informático llamado XML **i(eXtensible Markup Language).
+
+Text Encoding Initiative también ha creado un conjunto de pautas conocidas como las pautas TEI, que sirven como un estándar interdisciplinario que ayuda en la representación en línea de textos literarios y lingüísticos para la investigación, la enseñanza y la preservación en línea.
+
 # ¿Qué es un documento XML-TEI?
+TEI, la Iniciativa de codificación de texto, se creó por primera vez en el año 1987 con el fin de crear un conjunto general de pautas para la codificación de textos legibles por máquina, principalmente textos relacionados con las humanidades.
 
-TEI, la Iniciativa de codificación de texto, se creó en 1987 como una forma de crear un conjunto general de pautas para codificar textos legibles por máquina principalmente en las ciencias sociales y las humanidades. El funcionamiento de TEI es que utiliza conjuntos de etiquetas y riles en XML para codificar textos y documentos. Las etiquetas TEI que se utilizan para describir la estructura y las características de un determinado documento. Las etiquetas TEI más comunes que se utilizan son las que indican encabezados, párrafos, texto en negrita, etc.
+TEI funciona mediante el uso de etiquetas en XML que describen la estructura y las características de un documento para luego codificarlo. Un ejemplo de algunas de las etiquetas TEI más comunes que se utilizan para describir la estructura y las características de un determinado documento son las que indican títulos, párrafos, texto en negrita, etc.
 
-# Información crítica para la creación de un documento XML-TEI:
-
-1. Uno tiene que declarar explícitamente o por referencia una especificación de esquema TEI con la cual el documento puede ser validado y comparado.
-
-# Directrices para la codificación electrónica de texto:
-
-1. **La declaración**
-
+## Declaración XML:
+Al analizar este texto, se nos dice que se está utilizando un documento **XML** y que este en particular es la **versión 1.0** del estándar XML. También se nos dice qué caracteres de codificación, como en este caso, **UTF-8** Unicode se utiliza para cifrar el txt del texto. **UTF-8** es la combinación de caracteres más universal y es la más utilizada por los sistemas de codificación.
+```
         <?xml version="1.0" encoding="UTF-8"?>
-        
-Indica que se trata de un documento XML, con el tipo de codificación de caracteres: por defecto es siempre UTF-8
+ ```
+ 
+## Asociación al esquema .rng
 
-2. **El esquema**
-
+Al observar la asociación del modelo de esquema para este documento en particular, se encuentra que es de tipo **relaxNG (.rng)**. **RelaxNG** es un tipo de lenguaje de esquema que crea y presenta un modelo básico para marcar y codificar el texto del documento XML-TEI. Este esquema funciona identificando un patrón estructurado para el contenido del texto.
+```
         <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/teilite.rng" 
         schematypens="http://relaxng.org/ns/structure/1.0"?>
-        
-Esta línea representa y establece en qué modelo específico se encuentra este documento XML. En el caso de TEI, el esquema más utilizado es RelaxNG, que tiene una extensión .rng.
+```   
 
-3. **El elemento raíz**
+## Elemento raíz:
+Después del prólogo de este documento se encuentra el elemento conocido como **raíz**. En el caso de este documento, la raíz es **TEI** y contiene todos los elementos XML-TEI, incluido el encabezado, el cuerpo y el texto. La función del elemento raíz **TEI** es indicar el espacio de nombres y mostrar a qué tipo de modelo pertenecen las etiquetas utilizadas.
 
+## Espacio de nombre:
+A continuación, con respecto al espacio de nombres, al usar *http://www.tei-c.org/ns/1.0* podemos etiquetar e identificar cada elemento y atributo ubicado dentro de la raíz, y conectarlos con este espacio de nombres específico.
+```
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
+```
 
-El elemento raíz es responsable de indicar el espacio de nombres. En otras palabras, significa a qué tipo de modelo pertenecen las etiquetas utilizadas.
-
-4. **El encabezado**
-
+## El Encabezado
+La siguiente es una de las secciones más importantes y más grandes del documento XML-TEI, que es **el encabezado**. El encabezado aparece como la etiqueta **teiHeader**, y aquí es donde se encuentran los metadatos para obtener información relevante para el texto dado. El encabezado también es donde se encuentran las etiquetas para **fileDesc**, **titleStmt*,publicationsStmt y sourceDesc**.
+``` 
        <teiHeader>
-        <fileDesc>
-        <titleStmt>
-        <title>
-        <!-- Title of the Source --/>
-        </title>
-        </titleStmt>
-        <publicationStmt>
-        <p>
-        <!-- Publication Information --/>
-        </p>
-        </publicationStmt>
-        <sourceDesc>
-        <p>
-        <!-- Information about the source --/>
-        </p>
-        </sourceDesc>
-        </fileDesc>
-        </teiHeader>
-        
-El elemento raíz es una de las partes más importantes de TEI, ya que contiene toda la información de metadatos, que normalmente no está destinada a la publicación, pero es necesaria para unir el documento como un todo.
+      <fileDesc>
+         <titleStmt>
+            <title>Ejercicio para el clase de SPA 410</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>University of Miami</p>        
+         </publicationStmt>
+         <sourceDesc>
+            <p>Archivo digital para el clase de SPA410.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+```      
+
+**A continuación se muestran explicaciones de la información contenida en cada uno de los elementos del encabezado:
+
+1.**fileDesc**: este es el único elemento que se requiere en el encabezado porque contiene información sobre el archivo XML-TEI y la fuente principal.
+2.**titleStmt**: En este elemento es donde se encuentra la información sobre el nombre del archivo
+3.**sourceDesc**: este elemento es el que detalla la fuente original del archivo.
+4.**publicaciónStmt**: Este elemento es el que nos da la información necesaria sobre la publicación digital y el editor del archivo y utiliza la etiqueta de párrafo.
+
+## Texto
+Pasando a la segunda parte más grande de un documento XML-TEI, el texto. Dentro de la sección conocida como el texto, hay subsecciones, una de las cuales se conoce como "cuerpo". En el cuerpo es donde se encuentran los fragmentos del texto real del documento. Dentro del cuerpo, la etiqueta de párrafo se usa repetidamente para mostrar el texto que aparece en cualquier otro documento XML-TEI. A continuación, se utiliza la etiqueta * figure * que incluye una URL con un enlace de hipertexto en el que se puede hacer clic y que conduce a una imagen.
+
 
 5. **El cuerpo del documento**
-
+```
         <text>
             <body>
               <p>El texto </p>
              <figure>
-              <!--Este elemento <figure> puede eliminarse pues es solo el logo de TEI --/>
                 <graphic url="http://www.tei-c.org/logos/TEI-glow.png"/>
               </figure>
            </body>
           </text>
-  
-        </TEI>
+  ```
                         
