@@ -3,7 +3,7 @@ author:
   name: Gabrielle Magnant
   email: gam186@miami.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-  Mi página web para la clase 410 de español.
+  Mi sitio web para la clase de humanidades digitales SPA 410.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -14,7 +14,7 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: gmagnant
+    twitter: @gmagnant
     github:  gmagnant00
     # devto: jekyll
     # dribbble: jekyll
