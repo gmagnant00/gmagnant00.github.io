@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tarea 3. Dublin Core, un lenguaje de metadatos"
+title: "Tarea 3. Comentario documento en Dublin Core"
 date: 2021-09-27
 author: Gabrielle Magnant
 ---
