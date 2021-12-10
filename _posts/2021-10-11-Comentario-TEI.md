@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tarea 4. Commentatio de La Text Encoding Initiative"
+title: "Tarea 4. Comentario documento XML-TEI"
 date: 2021-10-11
 author: Gabrielle Magnant 
 ---
