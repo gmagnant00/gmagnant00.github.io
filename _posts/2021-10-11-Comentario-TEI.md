@@ -39,7 +39,7 @@ A continuación, con respecto al espacio de nombres, al usar *http://www.tei-c.o
 ```
 
 ## El Encabezado:
-La siguiente es una de las secciones más importantes y más grandes del documento XML-TEI, que es el encabezado. El encabezado aparece como la etiqueta `teiHeader`, y aquí es donde se encuentran los metadatos para obtener información relevante para el texto dado. El encabezado también es donde se encuentran las etiquetas para `fileDesc`, **titleStmt**, **publicationsStmt** y **sourceDesc**.
+La siguiente es una de las secciones más importantes y más grandes del documento XML-TEI, que es el encabezado. El encabezado aparece como la etiqueta `teiHeader`, y aquí es donde se encuentran los metadatos para obtener información relevante para el texto dado. El encabezado también es donde se encuentran las etiquetas para `fileDesc`, `titleStmt`, `publicationsStmt` y `sourceDesc`.
 ``` 
        <teiHeader>
       <fileDesc>
