@@ -16,7 +16,7 @@ TEI, la Iniciativa de codificación de texto, se creó por primera vez en el añ
 TEI funciona mediante el uso de etiquetas en XML que describen la estructura y las características de un documento para luego codificarlo. Un ejemplo de algunas de las etiquetas TEI más comunes que se utilizan para describir la estructura y las características de un determinado documento son las que indican títulos, párrafos, texto en negrita, etc.
 
 ## Declaración XML:
-Al analizar este texto, se nos dice que se está utilizando un documento **XML** y que este en particular es la **versión 1.0** del estándar XML. También se nos dice qué caracteres de codificación, como en este caso, **UTF-8** Unicode se utiliza para cifrar el txt del texto. **UTF-8** es la combinación de caracteres más universal y es la más utilizada por los sistemas de codificación.
+Al analizar este texto, se nos dice que se está utilizando un documento **XML** y que este en particular es la **versión 1.0** del estándar XML. También se nos dice qué caracteres de codificación, como en este caso, `UTF-8` Unicode se utiliza para cifrar el txt del texto. `UTF-8` es la combinación de caracteres más universal y es la más utilizada por los sistemas de codificación.
 ```
         <?xml version="1.0" encoding="UTF-8"?>
  ```
@@ -30,7 +30,7 @@ Al observar la asociación del modelo de esquema para este documento en particul
 ```   
 
 ## Elemento raíz:
-Después del prólogo de este documento se encuentra el elemento conocido como **raíz**. En el caso de este documento, la raíz es **TEI** y contiene todos los elementos XML-TEI, incluido el encabezado, el cuerpo y el texto. La función del elemento raíz **TEI** es indicar el espacio de nombres y mostrar a qué tipo de modelo pertenecen las etiquetas utilizadas.
+Después del prólogo de este documento se encuentra el elemento conocido como `raiz`. En el caso de este documento, la raíz es `TEI` y contiene todos los elementos XML-TEI, incluido el encabezado, el cuerpo y el texto. La función del elemento raíz `TEI` es indicar el espacio de nombres y mostrar a qué tipo de modelo pertenecen las etiquetas utilizadas.
 
 ## Espacio de nombre:
 A continuación, con respecto al espacio de nombres, al usar *http://www.tei-c.org/ns/1.0* podemos etiquetar e identificar cada elemento y atributo ubicado dentro de la raíz, y conectarlos con este espacio de nombres específico.
@@ -39,7 +39,7 @@ A continuación, con respecto al espacio de nombres, al usar *http://www.tei-c.o
 ```
 
 ## El Encabezado:
-La siguiente es una de las secciones más importantes y más grandes del documento XML-TEI, que es **el encabezado**. El encabezado aparece como la etiqueta **teiHeader**, y aquí es donde se encuentran los metadatos para obtener información relevante para el texto dado. El encabezado también es donde se encuentran las etiquetas para **fileDesc**, **titleStmt**, **publicationsStmt** y **sourceDesc**.
+La siguiente es una de las secciones más importantes y más grandes del documento XML-TEI, que es el encabezado. El encabezado aparece como la etiqueta `teiHeader`, y aquí es donde se encuentran los metadatos para obtener información relevante para el texto dado. El encabezado también es donde se encuentran las etiquetas para `fileDesc`, **titleStmt**, **publicationsStmt** y **sourceDesc**.
 ``` 
        <teiHeader>
       <fileDesc>
@@ -58,10 +58,11 @@ La siguiente es una de las secciones más importantes y más grandes del documen
 
 ### A continuación se muestran explicaciones de la información contenida en cada uno de los elementos del encabezado:
 
-- **fileDesc**: este es el único elemento que se requiere en el encabezado porque contiene información sobre el archivo XML-TEI y la fuente principal.
-- **titleStmt**: En este elemento es donde se encuentra la información sobre el nombre del archivo
-- **sourceDesc**: este elemento es el que detalla la fuente original del archivo.
-- **publicaciónStmt**: Este elemento es el que nos da la información necesaria sobre la publicación digital y el editor del archivo y utiliza la etiqueta de párrafo.
+- `fileDesc`: este es el único elemento que se requiere en el encabezado porque contiene información sobre el archivo XML-TEI y la fuente principal.
+- `titleStmt`: En este elemento es donde se encuentra la información sobre el nombre del archivo
+- `sourceDesc`: este elemento es el que detalla la fuente original del archivo.
+- `publicaciónStmt`: Este elemento es el que nos da la información necesaria sobre la publicación digital y el editor del archivo y utiliza la etiqueta de párrafo.
+- `teiHeader`: El elemento genérico `teiHeader` es el encabezado y es el que contiene los metadatos del documento que estamos codificando
 
 ## Texto:
 
