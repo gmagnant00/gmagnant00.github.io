@@ -8,6 +8,5 @@
 layout: home
 ---
 
-¡Bienvenido a mi pagina web! Este es mi primer intento de hacer un sitio web propio y espero que lo disfruten. 
+Bienvenido a mi página de GitHub SPA 410. El propósito de esta página es mostrar todos los proyectos, ensayos y ejercicios que he completado en mi clase de Alfabetización digital SPA 410 en la Universidad de Miami.
 
-Este sitio web que hemos creado el código de la plantilla Minima que puede descargarse en GitHub: [minima](https://github.com/jekyll/minima)
