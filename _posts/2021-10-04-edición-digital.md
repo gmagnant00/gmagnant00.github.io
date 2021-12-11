@@ -24,7 +24,6 @@ Las etiquetas TEI describen las jerarquías estructurales, las divisiones y las 
   
 Los metadatos de cada una de las cartas son la información más importante que permite que las cartas se separen en categorías según el período de tiempo, la ubicación, la correspondencia, etc. A continuación se muestra un ejemplo de los metadatos recopilados para una carta escrita de Van Gogh a su hermano Theo. La información que se muestra es lo que ha permitido que esta carta específica se clasifique en la sección de ubicación "Ámsterdam" de la página web debido a la ubicación en la que se escribió la carta.
 
-<img src="/assets/images/0003.png" height="200" width="210" align="left" border="5px solid #000000" style="margin:10px;"> 
 
 El diseño de *Vincent van Gogh: The Letters* es muy interesante porque permite al lector buscar entre los cientos de cartas en función de los datos que le interesen. Las cartas se han clasificado en grupos según el período, el destinatario, el lugar y si contienen o no bocetos o dibujos. Una vez que se ha elegido uno de los cuatro grupos, existe la opción de especificar la búsqueda aún más, ya que se enumeran las listas de lugares donde Van Gogh vivió y viajó, así como compañeros artistas y amigos suyos, y períodos de tiempo en los que escribió. Por ejemplo, a continuación se muestra cómo se ve la selección de "ubicación", ya que se enumeran todos los lugares en los que o desde donde se escribió una carta.
 
