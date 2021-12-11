@@ -4,7 +4,8 @@ title: "Tarea 3. Comentario documento en Dublin Core"
 date: 2021-09-27
 author: Gabrielle Magnant
 ---
-
+## Metadatos sobre la postal de Federico García Lorca:
+### A. Introducción a Dublin Core:
 Dublin Core es un estandar de metadatos que se utiliza para describir una variedad de recursos físicos y digitales. Dublin Core contiene 15 elementos de metadatos “centrales” que incluyen elementos específicos para describir, analizar y encontrar un archivo digital.
 
 Aquí está el enlace para la postal que es digitalizada por la biblioteca de la Universidad de Miami: [Digital Library UMiami](https://merrick.library.miami.edu/cdm/compoundobject/collection/chc5324/id/31/rec/19)
