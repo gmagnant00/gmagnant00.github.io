@@ -91,7 +91,7 @@ Imagen
 </dc:type>
 ````
 
-El formato, `format`, de la imagen es jpg tal y como el archivo de la postal lo muestra como (.jpg):
+El formato, `format` de la imagen es jpg tal y como el archivo de la postal lo muestra como (.jpg):
 
 ````
 <dc:format>
@@ -99,7 +99,7 @@ jpg
 </dc:format>
 ````
     
-El identificador, `identifier`, es el enlace a la postal en el sitio web de la biblioteca de la Universidad de Miami que se encuentra en una colección específica en su catálogo:
+El identificador, `identifier` es el enlace a la postal en el sitio web de la biblioteca de la Universidad de Miami que se encuentra en una colección específica en su catálogo:
 
 ````
 <dc:identifier> 
@@ -107,7 +107,7 @@ https://merrick.library.miami.edu/cdm/compoundobject/collection/chc5324/id/31/re
 </dc:identifier>
 ````
 
-La fuente de la publicación, `source`, de la postal es la Biblioteca de la Universidad de Miami publicada digitalmente:
+La fuente de la publicación, `source` de la postal es la Biblioteca de la Universidad de Miami publicada digitalmente:
 
  ````
 <dc:source>
@@ -115,7 +115,7 @@ University of Miami Libraries Digital Collections
 </dc:source>
 ````
 
-A continuación, debemos identificar en qué idioma, `language`, se encuentra el texto o documento original. La postal está escrita en español, por lo que este es el idioma de la publicación y se identifica así:
+A continuación, debemos identificar en qué idioma, `language` se encuentra el texto o documento original. La postal está escrita en español, por lo que este es el idioma de la publicación y se identifica así:
 
 ````
 <dc:language>
@@ -123,7 +123,7 @@ Español
 </dc:language>
 ````
 
-La cobertura, `coverage`, es el rango de fechas que cubre la postal, que en este caso es la vida de Lorca. Asimismo, también se menciona el lugar de origen de la publicación para dar una ubicación física al archivo:
+La cobertura, `coverage` es el rango de fechas que cubre la postal, que en este caso es la vida de Lorca. Asimismo, también se menciona el lugar de origen de la publicación para dar una ubicación física al archivo:
 
 ````
 <dc:coverage> 
