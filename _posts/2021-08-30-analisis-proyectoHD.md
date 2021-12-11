@@ -15,8 +15,8 @@ El modelado de temas en sí mismo es un método de lingüística computacional q
 
 Después de instalar MALLET y alimentar archivos de texto de los diarios de Ballard, a Blevins se le presentó una lista de más de treinta temas compuestos por veinte palabras cada uno, que luego etiquetó con un título descriptivo particular. Algunos de los temas creados por el programa fueron: partería, iglesia, muerte, jardinería, compras, enfermedad, etc. MALLET agrupó estos temas en base a un conjunto de palabras clave y si estaban presentes o no juntos en el texto. Si ciertas palabras o frases se encontraran cerca unas de otras, el texto se colocaría en la categoría que las describe.
 
-  <img src="/assets/images/ mallet.png" alt="sumario" width="600"/>
   
+<img src="/assets/images/mallet.png" height="400" width="510" align="right" border="5px solid #000000" style="margin:10px;"> 
 
 
 
