@@ -5,8 +5,10 @@ date: 2021-10-11
 author: Gabrielle Magnant 
 ---
 # Text Encoding Initiative
+<img src="/assets/images/tei.png" height="350" width="400" align="right" border="5px solid #000000" style="margin:10px;">
 
-TEI, The Text Encoding Initiative, es un sistema que permite la descripción digital de textos en humanidades mediante el uso de un lenguaje de marcado informático llamado XML **i(eXtensible Markup Language)**.
+
+TEI, The Text Encoding Initiative, es un sistema que permite la descripción digital de textos en humanidades mediante el uso de un lenguaje de marcado informático llamado XML [**i(eXtensible Markup Language)**](https://www.w3.org/XML/).
 
 Text Encoding Initiative también ha creado un conjunto de pautas conocidas como las pautas TEI, que sirven como un estándar interdisciplinario que ayuda en la representación en línea de textos literarios y lingüísticos para la investigación, la enseñanza y la preservación en línea.
 
@@ -23,7 +25,7 @@ Al analizar este texto, se nos dice que se está utilizando un documento **XML**
  
 ## Asociación al esquema .rng:
 
-Al observar la asociación del modelo de esquema para este documento en particular, se encuentra que es de tipo **relaxNG (.rng)**. **RelaxNG** es un tipo de lenguaje de esquema que crea y presenta un modelo básico para marcar y codificar el texto del documento XML-TEI. Este esquema funciona identificando un patrón estructurado para el contenido del texto.
+Al observar la asociación del modelo de esquema para este documento en particular, se encuentra que es de tipo [**relaxNG (.rng)**](https://relaxng.org/). **RelaxNG** es un tipo de lenguaje de esquema que crea y presenta un modelo básico para marcar y codificar el texto del documento XML-TEI. Este esquema funciona identificando un patrón estructurado para el contenido del texto.
 ```
         <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/teilite.rng" 
         schematypens="http://relaxng.org/ns/structure/1.0"?>
