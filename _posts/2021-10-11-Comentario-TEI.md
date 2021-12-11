@@ -33,7 +33,7 @@ Al observar la asociación del modelo de esquema para este documento en particul
 Después del prólogo de este documento se encuentra el elemento conocido como `raiz`. En el caso de este documento, la raíz es `TEI` y contiene todos los elementos XML-TEI, incluido el encabezado, el cuerpo y el texto. La función del elemento raíz `TEI` es indicar el espacio de nombres y mostrar a qué tipo de modelo pertenecen las etiquetas utilizadas.
 
 ## Espacio de nombre:
-A continuación, con respecto al espacio de nombres, al usar *http://www.tei-c.org/ns/1.0* podemos etiquetar e identificar cada elemento y atributo ubicado dentro de la raíz, y conectarlos con este espacio de nombres específico.
+A continuación, con respecto al espacio de nombres, al usar [TEI](http://www.tei-c.org/ns/1.0) podemos etiquetar e identificar cada elemento y atributo ubicado dentro de la raíz, y conectarlos con este espacio de nombres específico.
 ```
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
 ```
