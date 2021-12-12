@@ -6,6 +6,9 @@ author: Gabrielle Magnant
 ---
 ## Metadatos sobre la postal de Federico García Lorca:
 ### Introducción a Dublin Core:
+
+<img src="/assets/images/memoria.jpeg" height="450" width="500" align="center" border="5px solid #000000" style="margin:10px;">
+
 Dublin Core es un recurso de metadatos de 15 elementos que se utiliza para catalogar fuentes para bibliotecas e incluso museos. Uno de sus usos más habituales es la creación de un índice digital completo para motores de búsqueda. Dublin Core puede analizar los metadatos de varias fuentes, ya sean digitales o físicos, como libros e imágenes. En este análisis, desglosaremos los 15 elementos de metadatos de una postal ubicada en el sistema de bibliotecas digitales de la Universidad de Miami.
 
 Aquí está el enlace para la postal que es digitalizada por la biblioteca de la Universidad de Miami: [Digital Library UMiami](https://merrick.library.miami.edu/cdm/compoundobject/collection/chc5324/id/31/rec/19)
