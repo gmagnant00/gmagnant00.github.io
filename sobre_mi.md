@@ -10,3 +10,6 @@ Mi nombre es Gabrielle Magnant, nací en Rome, Georgia, pero en el sur de Florid
 Actualmente estoy solicitando ingreso a la escuela de medicina y espero asistir a la escuela de medicina de Duke. Aspiro a convertirme en cirujano de Mohs e investigar el cáncer de piel.
 
 Mi experiencia con Humanidades Digitales antes de esta clase era muy limitada ya que la mayoría de mis clases han sido estrictamente de ciencias. Entré a esta clase sin saber qué esperar, pero me sorprendió gratamente lo mucho que aprendí sobre humanidades digitales. Disfruté aprendiendo sobre bibliotecas digitales y proyectos de minería de datos. Me gustó especialmente usar GitHub para hacer mi portafolio.
+
+
+IMG_6958.jpg
