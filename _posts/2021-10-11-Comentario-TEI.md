@@ -32,8 +32,7 @@ Al observar la asociación del modelo de esquema para este documento en particul
 ```   
 
 ## Elemento raíz:
-Next is what is known as the `root` element. The root element is what contains any other elements used and is written as `TEI`. The root element will be followed by all XML-TEI elements, including the header, body, and text. The function of the root element `TEI` is to indicate the namespace and to show what type of model the tags used belong to.
-
+Lo siguiente es lo que se conoce como el elemento "raíz". El elemento raíz es lo que contiene cualquier otro elemento utilizado y se escribe como "TEI". El elemento raíz irá seguido de todos los elementos XML-TEI, incluidos el encabezado, el cuerpo y el texto. La función del elemento raíz `TEI` es indicar el espacio de nombres y mostrar a qué tipo de modelo pertenecen las etiquetas utilizadas.
 ```
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
 ```
